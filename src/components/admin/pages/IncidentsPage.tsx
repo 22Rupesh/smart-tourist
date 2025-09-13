@@ -69,7 +69,7 @@ export default function IncidentsPage() {
       title: 'Theft of Camera Equipment',
       type: 'Theft',
       reporter: {
-        name: 'Priya Sharma',
+        name: 'Shivam',
         id: 'TID-2024-004',
         phone: '+91-9876543210'
       },

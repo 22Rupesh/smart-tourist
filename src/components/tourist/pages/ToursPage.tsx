@@ -22,7 +22,7 @@ export default function ToursPage() {
     {
       id: 1,
       title: 'Old Delhi Heritage Walk',
-      guide: 'Rajesh Kumar',
+      guide: 'Shivam',
       category: 'heritage',
       rating: 4.9,
       reviews: 127,
@@ -41,7 +41,7 @@ export default function ToursPage() {
     {
       id: 2,
       title: 'Delhi Food Street Tour',
-      guide: 'Priya Sharma',
+      guide: 'Shivam',
       category: 'food',
       rating: 4.8,
       reviews: 89,

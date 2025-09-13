@@ -483,7 +483,7 @@ export default function DashboardHome() {
       <div className="bg-gradient-to-r from-blue-600 to-emerald-600 rounded-xl p-6 text-white">
         <div className="flex items-center justify-between">
           <div>
-            <h2 className="text-2xl font-bold">{t('welcome')}, {user?.name?.split(' ')[0]}!</h2>
+            <h2 className="text-2xl font-bold">{t('welcome')}, Shivam</h2>
             <p className="mt-2 text-blue-100">Tourist ID: {user?.touristId}</p>
             <div className="flex items-center mt-3 text-blue-100">
               <MapPin className="w-4 h-4 mr-2" />

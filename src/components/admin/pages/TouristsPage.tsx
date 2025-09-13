@@ -12,8 +12,8 @@ export default function TouristsPage() {
   const tourists = [
     {
       id: 'TID-2024-001',
-      name: 'Priya Sharma',
-      email: 'priya.sharma@email.com',
+      name: 'Shivam',
+      email: 'shivam@email.com',
       phone: '+91-9876543210',
       nationality: 'Indian',
       avatar: 'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=150',

@@ -37,7 +37,7 @@ export default function WomenSafetyPage() {
     },
     {
       id: 'WTD-2024-003',
-      name: 'Priya Sharma',
+      name: 'Shivam',
       age: 32,
       nationality: 'Indian',
       currentLocation: 'Lotus Temple',
@@ -108,7 +108,7 @@ export default function WomenSafetyPage() {
     {
       id: 'WSP-001',
       name: 'Women Safety Patrol Alpha',
-      officers: ['Inspector Sunita Devi', 'Constable Priya Singh'],
+      officers: ['Inspector Sunita Devi', 'Shivam'],
       currentArea: 'Central Delhi Tourist Circuit',
       status: 'active',
       lastUpdate: '5 minutes ago',

@@ -25,7 +25,7 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 const mockUsers: Record<string, User & { password: string }> = {
   'tourist@demo.com': {
     id: '1',
-    name: 'Priya Sharma',
+    name: 'Shivam',
     email: 'tourist@demo.com',
     password: 'tourist123',
     role: 'tourist',
@@ -40,7 +40,7 @@ const mockUsers: Record<string, User & { password: string }> = {
   },
   'admin@demo.com': {
     id: '2',
-    name: 'Inspector Rajesh Kumar',
+    name: 'Shivam',
     email: 'admin@demo.com',
     password: 'admin123',
     role: 'admin',
