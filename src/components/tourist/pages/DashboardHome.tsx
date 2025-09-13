@@ -86,7 +86,7 @@ export default function DashboardHome() {
   const recommendedPlaces = [
     {
       id: 1,
-      name: 'Golghar',
+      name: 'Sikkim',
       rating: 4.8,
       image: 'https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=300',
       distance: '3.2 km',
@@ -99,7 +99,7 @@ export default function DashboardHome() {
     },
     {
       id: 2,
-      name: 'Patna Museum',
+      name: 'Lotus Temple',
       rating: 4.7,
       image: 'https://images.pexels.com/photos/1098460/pexels-photo-1098460.jpeg?auto=compress&cs=tinysrgb&w=300',
       distance: '4.1 km',
@@ -112,7 +112,7 @@ export default function DashboardHome() {
     },
     {
       id: 3,
-      name: 'Mahavir Mandir',
+      name: 'Temple',
       rating: 4.6,
       image: 'https://images.pexels.com/photos/3408353/pexels-photo-3408353.jpeg?auto=compress&cs=tinysrgb&w=300',
       distance: '2.7 km',

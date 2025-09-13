@@ -21,7 +21,7 @@ export default function ToursPage() {
   const tours = [
     {
       id: 1,
-      title: 'Old Delhi Heritage Walk',
+      title: 'Taj Mahal',
       guide: 'Shivam',
       category: 'heritage',
       rating: 4.9,
@@ -59,7 +59,7 @@ export default function ToursPage() {
     },
     {
       id: 3,
-      title: 'Spiritual Delhi Tour',
+      title: 'Sikkim',
       guide: 'Amit Singh',
       category: 'spiritual',
       rating: 4.7,
@@ -78,7 +78,7 @@ export default function ToursPage() {
     },
     {
       id: 4,
-      title: 'Photography Tour - Delhi Monuments',
+      title: 'Lotus Temple',
       guide: 'Vikash Gupta',
       category: 'photography',
       rating: 4.6,
@@ -97,7 +97,7 @@ export default function ToursPage() {
     },
     {
       id: 5,
-      title: 'Cultural Delhi Experience',
+      title: 'Sikkim Temple',
       guide: 'Sunita Devi',
       category: 'cultural',
       rating: 4.8,
